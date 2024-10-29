@@ -7,9 +7,6 @@ main:
   - name: Teaching
     url: teaching
     weight: 10
-  - name: Tour
-    url: tour
-    weight: 20
   - name: News
     url: post
     weight: 30
