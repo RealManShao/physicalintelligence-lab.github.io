@@ -142,7 +142,7 @@ sections:
   - block: collection
     content:
       text: ""
-      title: Featured Publications
+      title: Publications
       count: 5
       filters:
         folders:
