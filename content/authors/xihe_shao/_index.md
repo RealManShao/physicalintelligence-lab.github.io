@@ -14,19 +14,23 @@ role: Undegraduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: ZJU-UIUC Institute, Zhejiang University
-    url: 'https://www.zju.edu.cn/english/'
+  - name: Zhejiang University
+    url: 'https://www.zju.edu.cn'
+    
+  - name: ZJU-UIUC Institute
+    url: 'https://zjui.intl.zju.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
 bio: to be edit.
 
 interests:
+  - Control
   - Robotics
   - Reinforcement Learning
 
 education:
   courses:
-    - course: Undergraduate student in Mechanical Engineering
+    - course: Undergraduate student in Electrical Engineering
       institution: Zhejiang University/University of Illinois Urbana-Champaign
       year: 2021 - Present
 
@@ -38,15 +42,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:xihe.21@intl.zju.edu.cn'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/leixinchang
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.com/citations?hl=zh-CN&user=Ahu5mg4AAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/Leixinjonaschang
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/RealManShao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,5 +65,3 @@ highlight_name: false
 user_groups:
   - Undergraduate Students
 ---
-
-A robot enthusiast.
